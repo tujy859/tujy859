@@ -8,5 +8,5 @@
 ### 🔗 Connect
 
 - 🌐 **个人博客**：[Jinying's Tech Blog](https://tujinying.me)
-- 📕 **小红书**：点点居（可在小红书 App 搜索关注）
+- 📕 **小红书**：[点点居](https://www.xiaohongshu.com/search_result?keyword=%E7%82%B9%E7%82%B9%E5%B1%85&type=51)
 - ✉️ **邮箱交流**：[tujy859@163.com](mailto:tujy859@163.com)
