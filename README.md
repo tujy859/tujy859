@@ -5,9 +5,8 @@
 
 ---
 
-### 🔗 找到我 / Connect
+### 🔗 Connect
 
 - 🌐 **个人博客**：[Jinying's Tech Blog](https://tujinying.me)
 - 📕 **小红书**：点点居（可在小红书 App 搜索关注）
 - ✉️ **邮箱交流**：[tujy859@163.com](mailto:tujy859@163.com)
-- 🐙 **GitHub**：[tujy859](https://github.com/tujy859)
